@@ -12,7 +12,7 @@
 
 #define buzzPin 4   //D2
 
-unsigned long chId = 979445;
+unsigned long chId = "enter chId";
 const char* apiKey = "my api key";
 
 char auth[] = "auth key";
